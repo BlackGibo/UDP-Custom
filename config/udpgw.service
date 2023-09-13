@@ -1,5 +1,5 @@
 [Unit]
-Description=UDPGW Gateway Service by Namydev
+Description=UDPGW Gateway Service by Lantin
 After=network.target
 
 [Service]

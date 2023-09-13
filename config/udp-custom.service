@@ -1,5 +1,5 @@
 [Unit]
-Description=UDP Custom by Namydev
+Description=UDP Custom by Lantin
 
 [Service]
 User=root
